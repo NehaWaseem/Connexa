@@ -1,0 +1,31 @@
+# Java / Maven
+/target/
+**/target/
+*.class
+*.log
+*.tmp
+*.bak
+
+# Spring Boot
+/*.jar
+/*.war
+
+# IDE
+/.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Node
+/node_modules/
+/frontend/node_modules/
+/dist/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
